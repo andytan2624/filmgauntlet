@@ -1,0 +1,22 @@
+tree:
+  -
+    title: 'Getting Started'
+    children:
+      -
+        entry: home
+      -
+        entry: 586d4f7c-c6d5-4858-837a-fd2829e04f87
+      -
+        entry: 895d764f-6dde-47a8-8b48-6b0662ab22a8
+  -
+    title: Extending
+    children:
+      -
+        entry: 18d0418e-1e73-4016-969c-25e862e347cb
+      -
+        entry: 09c7c410-b83b-4ee9-85db-e8f82fae7113
+  -
+    title: 'Other stuff'
+    children:
+      -
+        entry: c6e7680c-0022-4870-96ed-585d1ec33ff6

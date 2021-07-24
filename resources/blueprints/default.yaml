@@ -1,0 +1,20 @@
+title: Default
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: description
+        field:
+          input_type: text
+          type: text
+          instructions: 'Will be displayed right under the title'
+          localizable: false
+          listable: hidden
+          display: Description
+      -
+        handle: content
+        field:
+          type: markdown
+          display: Content
+          localizable: true
